@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jawaciqeyiwo.vercel.app/sitemap.xml
